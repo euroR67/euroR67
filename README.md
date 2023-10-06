@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MVC Forum<br>🌱 I’m currently learning PHP, Symfony, MySQL<br>💬 Ask me about anything<br>⚡ Fun fact : only practice make you stronger
+🔭 I’m currently working on my final projet TalentBlend for the examen<br>🌱 I’m currently learning PHP, Symfony, MySQL<br>💬 Ask me about anything<br>⚡ Fun fact : only practice make you stronger
 
 
 ## 🌐 Socials:
